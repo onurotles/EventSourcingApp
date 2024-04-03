@@ -1,0 +1,15 @@
+/Users/onurotles/Desktop/Projects/EventSourcingApp/bin/Debug/net6.0/EventSourcingApp
+/Users/onurotles/Desktop/Projects/EventSourcingApp/bin/Debug/net6.0/EventSourcingApp.deps.json
+/Users/onurotles/Desktop/Projects/EventSourcingApp/bin/Debug/net6.0/EventSourcingApp.runtimeconfig.json
+/Users/onurotles/Desktop/Projects/EventSourcingApp/bin/Debug/net6.0/EventSourcingApp.dll
+/Users/onurotles/Desktop/Projects/EventSourcingApp/bin/Debug/net6.0/EventSourcingApp.pdb
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.csproj.AssemblyReference.cache
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.AssemblyInfoInputs.cache
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.AssemblyInfo.cs
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.csproj.CoreCompileInputs.cache
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.dll
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/refint/EventSourcingApp.dll
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.pdb
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/EventSourcingApp.genruntimeconfig.cache
+/Users/onurotles/Desktop/Projects/EventSourcingApp/obj/Debug/net6.0/ref/EventSourcingApp.dll
